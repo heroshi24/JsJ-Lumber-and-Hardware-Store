@@ -1,0 +1,47 @@
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe.config
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.AssemblyReference.cache
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_front.resources
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_items.resources
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.Properties.Resources.resources
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.GenerateResource.cache
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.CoreCompileInputs.cache
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+C:\Users\Jarnal Sin Jornadal\source\repos\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe.config
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.AssemblyReference.cache
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.SuggestedBindingRedirects.cache
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_front.resources
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_items.resources
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.Properties.Resources.resources
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.GenerateResource.cache
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.CoreCompileInputs.cache
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+D:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe.config
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.AssemblyReference.cache
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.SuggestedBindingRedirects.cache
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_front.resources
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_items.resources
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.Properties.Resources.resources
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.GenerateResource.cache
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.CoreCompileInputs.cache
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+F:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe.config
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\bin\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.AssemblyReference.cache
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_front.resources
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.frm_items.resources
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ_Lumber_and_Hardware_Store.Finaloutput.Properties.Resources.resources
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.GenerateResource.cache
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.csproj.CoreCompileInputs.cache
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.exe
+E:\JsJ Lumber and Hardware Store.Finaloutput\JsJ Lumber and Hardware Store.Finaloutput\obj\Debug\JsJ Lumber and Hardware Store.Finaloutput.pdb
